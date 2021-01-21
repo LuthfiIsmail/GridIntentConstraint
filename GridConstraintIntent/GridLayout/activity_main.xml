@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gridlayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnA"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="A"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnB"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="B"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnC"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="C"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnD"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="D"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnE"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="E"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnF"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="F"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnG"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="G"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnH"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="H"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnI"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="I"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnJ"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="J"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnK"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="K"
+        android:background="#fff"/>
+
+    <Button
+        android:id="@+id/btnL"
+        android:layout_gravity="left|top"
+        android:padding="20dp"
+        android:text="L"
+        android:background="#fff"/>
+
+</GridLayout>
